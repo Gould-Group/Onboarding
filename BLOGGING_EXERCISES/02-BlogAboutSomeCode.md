@@ -1,10 +1,10 @@
 # Blog about some code
 
-* **Goal**: Understand a piece of code used by the Whitaker lab well enough to explain it to others
-* **Timeline**: Within the first three weeks of you joining the lab
+* **Goal**: Understand a piece of code used by the Gould group well enough to explain it to others
+* **Timeline**: Within the first 2-month of you joining the group
 * **Length**: Approximately 500 words, but possibly accompanied by a jupyter notebook
 
-The goal of this blogging exercise is to ensure that you have confidence in running a piece of code that is used (or will be used) in your work at the Whitaker lab.
+The goal of this blogging exercise is to ensure that you have confidence in running a piece of code that is used (or will be used) in your work at the Gould Group.
 
 The brief is very broad: **get a piece of code running and write about 500 words explaining how to use it**.
 
@@ -23,7 +23,7 @@ Try to make sure your blog covers these points:
 
 You might find that creating a jupyter notebook to go along with the blog is useful, along with sharing some screenshots of the different steps.
 
-To upload your blog post, follow the instructions in the [`_posts/blog/template.md`](https://github.com/WhitakerLab/whitakerlab.github.io/blob/master/_posts/blog/template.md) in the [whitakerlab.github.io website repo](https://github.com/WhitakerLab/whitakerlab.github.io).
+To upload your blog post, follow the instructions in the [`_posts/_template.md`](https://github.com/ImperialCollegeLondon/GouldGroup/blob/master/_posts/_template.md) in our [website repo](https://github.com/ImperialCollegeLondon/GouldGroup).
 
-The blog should be submitted as file in the [`_posts/blog`](https://github.com/WhitakerLab/whitakerlab.github.io/tree/master/_posts/blog) directory via a pull request.
+The blog should be submitted as file in the [`_posts/`](https://github.com/ImperialCollegeLondon/GouldGroup/tree/master/_posts) directory via a pull request.
 
