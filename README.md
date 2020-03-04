@@ -28,7 +28,7 @@ In this repository we're going to work through some tutorials, blogging exercise
 The Gould Group meetings are approximately weekly from 10am to 11am on Fridays.
 Members of the Gould Group are expected to join if they are able and to contribute to the agenda in advance of the meeting *whether they are able to attend or not*.
 
-* Please read the [lab meetings](Lab-meetings.md) guide for more details.
+* Please read the [Group meetings](Group-meetings.md) guide for more details.
 You can find the specific dates of the meetings in the [Gould group calendar](https://calendar.google.com/calendar/embed?src=tony.tc_m9r9c9cp1kacubeuttiu1vu07c%40group.calendar.google.com).
 
 ## Blogging exercises
