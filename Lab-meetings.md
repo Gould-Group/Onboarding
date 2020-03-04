@@ -152,7 +152,7 @@ If the meeting is "open agenda" then the chair, in collaboration with all presen
 
 After group meeting the chair is asked to convert the content in the HackMD to a college accessible blog post.
 
-*Please ask [Tony](mailto:zy2414@ic.ac.uk) for access to group site repo)*
+*Please ask [Tony](mailto:zy2414@ic.ac.uk) for access to group site repo*  
 The template for the blog post is available in the [Gould Group GitHub repository](https://github.com/ImperialCollegeLondon/GouldGroup) as [`_posts/template_lab-meeting.md`](https://github.com/ImperialCollegeLondon/GouldGroup/blob/master/_posts/_template_group-meeting.md).
 
 This blog post should be authored by the chair (make sure to change the `author`) part of the blog post header.
