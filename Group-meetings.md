@@ -1,4 +1,4 @@
-# Lab Meetings
+# Group Meetings
 *This document is heavily adapted from the Whitaker Lab's lab meeting procedure, we can't thank her and her lab enough for establishing such thorough and thoughtful process*
 
 As the group grows, the importance of sharing technical skills, domain expertise and tips and tricks for working effectively grows with it.
