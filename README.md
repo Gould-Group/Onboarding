@@ -38,7 +38,7 @@ One of the most useful ways for us to follow along with your progress is to read
 We'll set a schedule for each blog, but please plan on working through all four within the first few months of your time at the group.
 
 0. [Introducing](BLOGGING_EXERCISES/00-Introducing.md)
-1. [Meet 3 people at the Turing Institute](BLOGGING_EXERCISES/01-MeetThreePeople.md)
+1. [Meet 3 people at the college](BLOGGING_EXERCISES/01-MeetThreePeople.md)
 2. [Blog about some code](BLOGGING_EXERCISES/02-BlogAboutSomeCode.md)
 3. [Contribute to an open source project](BLOGGING_EXERCISES/03-OpenSourceContribution.md)
 <!-- 4. [Goal setting](BLOGGING_EXERCISES/04-GoalSetting.md) -->
